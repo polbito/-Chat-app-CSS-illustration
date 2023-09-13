@@ -318,12 +318,13 @@ body {
         height: 700px;
     }
     .gradient {
-        width: 400px;
-        height: 620px;
+        width: 430px;
+        height: 720px;
         border-radius: 0 0 190px 190px;
     }
     .text-content {
         margin-right: auto;
+        padding-top: 8em;
     }
     .text-content p {
         line-height: 1.8em;
